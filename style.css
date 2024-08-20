@@ -1,0 +1,80 @@
+.link-none {
+    text-decoration: none;
+    color: #000000;
+}
+
+.link-none:hover {
+    color: #000000;
+}
+
+.fontsmal {
+    font-size: 13px;
+    color: #000000;
+}
+
+.fontsmalfooter {
+    font-size: 12px;
+    color: #000000;
+}
+
+.searchbar {
+    width: 100%;
+    border-radius: 40px;
+}
+
+.btn {
+    border-radius: 40px;
+    width: 150px;
+}
+
+.cardss {
+    width: 150px;
+    height: 180px;
+    background-color: #999999;
+    border-radius: 100%;
+}
+
+.carousel-item img {
+    height: 300px;
+}
+
+.fbanner {
+    border-radius: 40px;
+}
+
+.contain {
+    background-size: contain;
+}
+
+.bgmage1 {
+    background-image: url(imgs/bag.jpg);
+}
+
+.bgmage2 {
+    background-image: url(imgs/sneak.jpg);
+}
+
+.bgmage3 {
+    background-image: url(imgs/whl.jpg);
+}
+
+.bgmage4 {
+    background-image: url(imgs/100.jpg);
+}
+
+.bgmage5 {
+    background-image: url(imgs/crds.jpg);
+}
+
+.bgmage6 {
+    background-image: url(imgs/lxlx.jpg);
+}
+
+.bgmage7 {
+    background-image: url(imgs/tys.jpg);
+}
+
+.w15 {
+    width: 15px;
+    height: 15px;
+}
