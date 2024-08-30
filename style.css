@@ -1,8 +1,19 @@
+*{
+    margin: 0;
+}
+
 .link-none {
     text-decoration: none;
     color: #000000;
 }
-
+.advanced-menu-link{
+    color: #000000;
+    text-decoration: none;
+}
+.advanced-menu-link:hover{
+    color: blue;
+    text-decoration: none;
+}
 .link-none:hover {
     color: #000000;
 }
@@ -77,6 +88,12 @@
 .w15 {
     width: 15px;
     height: 15px;
+}
+
+select{
+    border-style: none;
+    height: min-content;
+    cursor: pointer;
 }
 
 /*FooterBannerStyles*/
